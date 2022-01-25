@@ -1,5 +1,5 @@
 '/ Pytorch Neural Network Example'
-'/ Author @OmarAlburaiki'
+'/ Author Omar Alburaiki @osmx4'
 # imports
 import torch
 import torch.nn as nn # all nn modules are here nn, cnn, rnn .. etc
